@@ -1,0 +1,2 @@
+# Ditcoin
+Emulation of bitcoin.
